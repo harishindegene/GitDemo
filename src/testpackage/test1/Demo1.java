@@ -17,6 +17,8 @@ public class Demo1 {
 		driver.get("https://www.tricentis.com/");
 		driver.manage().window().maximize();
 		driver.close();
+		
+		System.out.println("Testing git");
 
 	
 
